@@ -1,0 +1,25 @@
+* {
+    text-align: center;
+    background-color: antiquewhite;
+    font-family: 'Courier New', Courier, monospace;
+    box-sizing: border-box;
+}
+
+div {
+    margin-top: 200px;
+    padding: 25px;
+}
+
+h1 {
+    font-size: 75px;
+
+}
+
+h2 {
+    font-size: 30px;
+    padding: 25px;
+}
+
+h3 {
+    font-size: 28px;
+}
